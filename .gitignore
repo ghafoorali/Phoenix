@@ -1,18 +1,4 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+#-pool eu1.ethermine.org:4444 -pool2 us1.ethermine.org:4444
+#-wal 0x5841D31951c13cA927626D0c4EF7B7e853dC7899.ghafoorali
+#-proto 3
+#-cdm 2
